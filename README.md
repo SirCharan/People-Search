@@ -1,2 +1,2 @@
 # People-Search
-A simple program to search for people and/or displayed attributes
+A Search Engine designed to search people in a given database on the basis of preselected attributed/conditions
